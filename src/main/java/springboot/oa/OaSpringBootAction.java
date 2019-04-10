@@ -18,6 +18,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class OaSpringBootAction extends SpringBootServletInitializer {
     public static void main(String[] args){
         SpringApplication.run(OaSpringBootAction.class,args);
+        System.out.println("启动成功");
     }
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
