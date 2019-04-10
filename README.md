@@ -17,7 +17,8 @@
 &emsp;&emsp; 1、将项目引入到开发工具中之后配好`maven`。  
 &emsp;&emsp; 2、将项目中的`用户角色功能表mysql.sql` 文件导入到你的`mysql`库中。  
 &emsp;&emsp; 3、找到项目中的`resources`文件夹下的`application.properties`文件中，修改项目中的数据库连接即可。   
-&emsp;&emsp; 4、启动后，访问:http://localhost:10000/ 账号密码分别为 admin   admin1。  
+&emsp;&emsp; 4、启动后，访问:http://localhost:10000/ 账号密码分别为 admin   admin1。   
 ![images](https://github.com/lingshufeng/images/blob/master/images/shiro%E9%A1%B9%E7%9B%AE%E6%A8%A1%E6%9D%BF.png)  
-&emsp;&emsp; 5、如有问题，可以百度搜索 `CSDN 凌大大博客`,进入博客后，留下消息,我看到后会及时回复。
+&emsp;&emsp; 5、如有问题，可以百度搜索 `CSDN 凌大大博客`,进入博客后，留下消息,我看到后会及时回复。 
+
 &emsp;&emsp; 6、gson的jar在本项目已经上传，需要将jar解压后放到自己本地的maven仓库中路径如下：E:\repository\com\google\gson\gson\2.3.1
